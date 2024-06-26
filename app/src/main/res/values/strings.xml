@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FetchRewards</string>
+    <string name="hiring">Hiring</string>
+    <string name="view_next_group">View next group</string>
+    <string name="view_previous_group">View previous group</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="list_id">ListId</string>
+</resources>
